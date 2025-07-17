@@ -9,9 +9,10 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: A CPA-pass candidate aiming to drive digital transformation in assurance.
+  #### :fire: I solve problems with data, automation, and structured communication.
+  #### :mortar_board: Bachelor’s Degree in Accounting, Soongsil University
+  #### :fire: Preparing for entry into Samil PwC – Digital Track, Assurance Division
   <br/>
   <br/>
   
