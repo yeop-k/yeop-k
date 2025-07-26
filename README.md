@@ -11,7 +11,6 @@
 
 #### :raising_hand: A CPA-pass candidate aiming to drive digital transformation in assurance.
 #### :fire: I solve problems with data, automation, and structured communication.
-#### :mortar_board: Bachelor’s Degree in Accounting, Soongsil University
 #### :fire: Preparing for entry into Samil PwC – Digital Track, Assurance Division
 
 ---
